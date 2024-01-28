@@ -24,3 +24,7 @@
 3. Java -------https://api2.sololearn.com/v2/certificates/CT-M8HMU1F3/image/png
 4. HTML -------https://api2.sololearn.com/v2/certificates/CT-FDCSAWM6/image/png
 5. JavaScript -https://api2.sololearn.com/v2/certificates/CT-FDCSAWM6/image/png
+
+
+**Iot Workshop Conducted by Kyrion Technologies pvt ltd at DTU Certificate URL : 
+1.  https://drive.google.com/file/d/1T2wjPCqHfN5qm94cJKw22WF7ZWev63KM/view?usp=drive_link 
